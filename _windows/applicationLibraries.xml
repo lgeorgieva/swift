@@ -1,5 +1,24 @@
 <application>
   <component name="libraryTable">
+    <library name="repository">
+      <ANNOTATIONS>
+        <root url="file://$MAVEN_REPOSITORY$" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://$MAVEN_REPOSITORY$" />
+      </JAVADOC>
+      <NATIVE>
+        <root url="file://$MAVEN_REPOSITORY$" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$" recursive="false" type="SOURCES" />
+    </library>
     <library name="src">
       <CLASSES />
       <JAVADOC />
