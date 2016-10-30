@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/3_ConsoleIOConditionalOperatorsLoops.iml" filepath="$PROJECT_DIR$/3_ConsoleIOConditionalOperatorsLoops.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/swift.iml" filepath="$PROJECT_DIR$/swift.iml" />
+>>>>>>> refs/heads/master
     </modules>
   </component>
 </project>

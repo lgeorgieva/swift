@@ -1,0 +1,39 @@
+<application>
+  <component name="libraryTable">
+    <library name="repository">
+      <ANNOTATIONS>
+        <root url="file://$MAVEN_REPOSITORY$" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://$MAVEN_REPOSITORY$" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      </JAVADOC>
+      <NATIVE>
+        <root url="file://$MAVEN_REPOSITORY$" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$" recursive="false" />
+      <jarDirectory url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$" recursive="false" type="SOURCES" />
+      <jarDirectory url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" recursive="false" type="SOURCES" />
+    </library>
+    <library name="src">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.40.zip!/mysql-connector-java-5.1.40/src" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
