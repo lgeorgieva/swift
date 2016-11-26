@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="IntelliJ IDEA Global Settings" type="PLAIN_TEXT" />
-      <mapping ext="cml" type="XML" />
-    </extensionMap>
-  </component>
-</application>
